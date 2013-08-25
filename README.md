@@ -2,7 +2,7 @@
 # jscafe v13 Grunt
 
 
-[スライド](jscafe.grunt.pdf)
+[&gt;&gt; スライド](https://github.com/sakunyo/jsCafe.gruntjs/raw/master/jscafe.grunt.pdf)
 
 
 サンプルファイル
