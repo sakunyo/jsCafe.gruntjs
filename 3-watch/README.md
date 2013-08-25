@@ -1,4 +1,7 @@
 
-grunt-contrib-connect を使ったWebサーバーと
-grunt-contrib-watch を使った LiveReload のサンプル
 
+# LiveReload のサンプル
+
+grunt-contrib-connect を使ったWebサーバーと
+
+grunt-contrib-watch を使った LiveReload のサンプル
