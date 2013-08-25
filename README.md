@@ -8,17 +8,12 @@
 サンプルファイル
 
 
-1. ./1-first-step<br>
-Gruntfile の基本セットアップ
+1. [1-first-step](1-first-step/)<br>Gruntfile の基本セットアップ
 
-2. ./2-next-step<br>
-Grunt API でバナーを作るサンプル
+2. [2-next-step](2-next-step)<br>Grunt API でバナーを作るサンプル
 
-3. ./3-watch<br>
-grunt-contrib-watch のサンプル
+3. [3-watch](3-watch)<br>grunt-contrib-watch のサンプル
 
-4. ./4-express<br>
-grunt-express-server のサンプル
+4. [4-express](4-express)<br>grunt-express-server のサンプル
 
-5. ./5-proxy<br>
-grunt-connect-proxy のサンプル
+5. [5-proxy](5-proxy)<br>grunt-connect-proxy のサンプル
