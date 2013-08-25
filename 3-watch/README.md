@@ -11,12 +11,12 @@ grunt を実行すると Safari が起動します。
 
 1. npm install を実行する。
 
-	$ npm install
+		$ npm install
 
 
 2. grunt を実行する。
 
-	$ grunt
+		$ grunt
 
 
 3. 終了するときは Ctrl + C などで grunt を終了します。

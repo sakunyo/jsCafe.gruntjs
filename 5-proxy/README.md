@@ -8,7 +8,8 @@ localhost:3000/api ディレクトリを localhost:8888/api に中継するサ�
 
 1. npm install を実行します。
 
-	$ npm install
+
+		$ npm install
 
 
 2. MAMPなどの別のWebサーバーを 8888 ポートで起動しましょう。
@@ -17,7 +18,8 @@ localhost:3000/api ディレクトリを localhost:8888/api に中継するサ�
 
 3. grunt を実行します。
 
-	$ grunt
+
+		$ grunt
 
 
 4. ブラウザで http://localhost:3000/api を開きます。

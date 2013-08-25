@@ -11,14 +11,14 @@ grunt-contrib-concat の banner オプションから
 
 1. npm install を実行する
 
-	$ npm install
+		$ npm install
 
 
 2. grunt を実行する
 
-	$ grunt
+		$ grunt
 
 
 3. main.js にバナーが追加されている
 
-	$ cat main.js
+		$ cat main.js
